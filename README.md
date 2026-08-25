@@ -1,4 +1,4 @@
-# 🌍 EcoShock
+#  EcoShock
 
 ## Economic Impact Analysis & Decision Support System
 
@@ -8,7 +8,7 @@ The system uses graph propagation, expert-defined rules, and sensitivity analysi
 
 ---
 
-## 📌 Features
+##  Features
 
 ### 1. Crisis Impact Simulation
 
@@ -105,7 +105,7 @@ Generate:
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ### Layer 1: Expert Knowledge Base
 
@@ -127,7 +127,7 @@ to propagate shocks across the economy.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * Streamlit
@@ -139,7 +139,7 @@ to propagate shocks across the economy.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 EcoShock/
@@ -160,7 +160,7 @@ EcoShock/
 
 ---
 
-## 📊 Validation Results
+## Validation Results
 
 The system was validated using real-world economic events.
 
@@ -175,7 +175,7 @@ Average MAPE: **8.61%**
 
 ---
 
-## 🎯 Applications
+## Applications
 
 ### Government
 
@@ -204,7 +204,7 @@ Average MAPE: **8.61%**
 
 ---
 
-## 📈 Future Improvements
+## Future Improvements
 
 * Machine Learning Hybrid Model
 * Live Economic Data Integration
@@ -216,7 +216,7 @@ Average MAPE: **8.61%**
 
 ---
 
-## 📄 Research Paper
+##  Research Paper
 
 **EcoShock: A Rule-Based Graph Propagation Decision Support System for Multi-Sector Economic Impact Analysis Across Social Classes**
 
@@ -226,7 +226,7 @@ ABV-Indian Institute of Information Technology and Management (ABV-IIITM), Gwali
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Ushosree Raha**
 
